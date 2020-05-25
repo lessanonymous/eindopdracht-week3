@@ -1,0 +1,20 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.fa-trash-alt {
+    color: red;
+}
+
+span.done {
+    text-decoration: line-through;
+}
+
+.save {
+    color: green;
+}
+
+.cancel {
+    color: red;
+}
