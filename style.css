@@ -18,3 +18,7 @@ span.done {
 .cancel {
     color: red;
 }
+
+.edit, .delete, .edit, .add-task-button {
+    cursor: pointer;
+}
